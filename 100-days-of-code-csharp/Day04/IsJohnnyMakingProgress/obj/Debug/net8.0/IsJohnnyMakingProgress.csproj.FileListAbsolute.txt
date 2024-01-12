@@ -1,0 +1,15 @@
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\bin\Debug\net8.0\IsJohnnyMakingProgress.exe
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\bin\Debug\net8.0\IsJohnnyMakingProgress.deps.json
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\bin\Debug\net8.0\IsJohnnyMakingProgress.runtimeconfig.json
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\bin\Debug\net8.0\IsJohnnyMakingProgress.dll
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\bin\Debug\net8.0\IsJohnnyMakingProgress.pdb
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\IsJohnnyMakingProgress.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\IsJohnnyMakingProgress.AssemblyInfoInputs.cache
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\IsJohnnyMakingProgress.AssemblyInfo.cs
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\IsJohnnyMakingProgress.csproj.CoreCompileInputs.cache
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\IsJohnnyMakingProgress.sourcelink.json
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\IsJohnnyMakingProgress.dll
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\refint\IsJohnnyMakingProgress.dll
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\IsJohnnyMakingProgress.pdb
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\IsJohnnyMakingProgress.genruntimeconfig.cache
+D:\Github\100-days-of-code\100-days-of-code-csharp\Day04\IsJohnnyMakingProgress\obj\Debug\net8.0\ref\IsJohnnyMakingProgress.dll
