@@ -1,0 +1,15 @@
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\bin\Debug\net8.0\Day06.exe
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\bin\Debug\net8.0\Day06.deps.json
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\bin\Debug\net8.0\Day06.runtimeconfig.json
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\bin\Debug\net8.0\Day06.dll
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\bin\Debug\net8.0\Day06.pdb
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\Day06.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\Day06.AssemblyInfoInputs.cache
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\Day06.AssemblyInfo.cs
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\Day06.csproj.CoreCompileInputs.cache
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\Day06.sourcelink.json
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\Day06.dll
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\refint\Day06.dll
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\Day06.pdb
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\Day06.genruntimeconfig.cache
+H:\Dev\100-days-of-code\100-days-of-code-csharp\Day06\obj\Debug\net8.0\ref\Day06.dll
